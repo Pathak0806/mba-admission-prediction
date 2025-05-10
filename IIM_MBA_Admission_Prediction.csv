@@ -1,0 +1,127 @@
+Registration ID,Candidate Name,CAT Score,Percentile,Bachelor's Degree Marks,Admission Status
+IIM2025001,Amit Sharma,98.5,99.2,85,Admitted
+IIM2025002,Priya Verma,85,92.5,78,Not Admitted
+IIM2025003,Rahul Mehta,95.2,98,82,Admitted
+IIM2025004,Neha Kapoor,76.5,85.3,75,Not Admitted
+IIM2025005,Vikas Singh,99.1,99.8,89,Admitted
+IIM2025006,Sneha Reddy,88.7,95,80,Not Admitted
+IIM2025007,Arjun Patel,91,96.5,84,Admitted
+IIM2025008,Swati Nair,83.4,91.2,79,Not Admitted
+IIM2025009,Rohan Das,97.8,99.5,88,Admitted
+IIM2025010,Kritika Malhotra,80.2,88.7,76,Not Admitted
+IIM2025011,Sachin Rao,96.3,99,87,Admitted
+IIM2025012,Pooja Iyer,79.5,87.9,74,Not Admitted
+IIM2025013,Manoj Pillai,94.7,97.8,81,Admitted
+IIM2025014,Sanya Gupta,82.1,90.5,77,Not Admitted
+IIM2025015,Deepak Yadav,90.6,96,83,Admitted
+IIM2025016,Ananya Joshi,75.8,84.7,73,Not Admitted
+IIM2025017,Harsh Kumar,99.4,99.9,91,Admitted
+IIM2025018,Megha Sinha,87.3,94.2,79,Not Admitted
+IIM2025019,Aditya Chauhan,93.5,97.2,85,Admitted
+IIM2025020,Ritika Mishra,81,89.5,76,Not Admitted
+IIM2025021,Rajeev Nanda,97.2,99.3,88,Admitted
+IIM2025022,Shivani Saxena,78.9,86.5,75,Not Admitted
+IIM2025023,Gautam Bhatia,95.9,98.5,86,Admitted
+IIM2025024,Divya Menon,86.5,93.7,80,Not Admitted
+IIM2025025,Suraj Desai,98,99.6,90,Admitted
+IIM2025026,Komal Choudhary,77.6,85,74,Not Admitted
+IIM20250027,Siddharth Kapoor,71.7,68.3,75,Not Admitted
+IIM20250028,Varun Patel,83.1,84.5,69,Not Admitted
+IIM20250029,Aarav Gupta,99.7,100,69,Not Admitted
+IIM20250030,Varun Singh,97.6,100,67,Not Admitted
+IIM20250031,Ishita Kapoor,93.2,87.8,68,Not Admitted
+IIM20250032,Meera Patel,74.8,80.3,66,Not Admitted
+IIM20250033,Meera Joshi,94,91.9,69,Not Admitted
+IIM20250034,Siddharth Verma,78.3,81.6,71,Not Admitted
+IIM20250035,Ishita Verma,98.6,96.7,80,Admitted
+IIM20250036,Tanvi Sharma,83.8,80.9,76,Not Admitted
+IIM20250037,Siddharth Singh,79.9,78.5,88,Not Admitted
+IIM20250038,Rohit Gupta,86.3,91,79,Not Admitted
+IIM20250039,Siddharth Desai,78.9,82.9,78,Not Admitted
+IIM20250040,Siddharth Reddy,71,71.6,85,Not Admitted
+IIM20250041,Rohit Kapoor,86.9,85.6,78,Not Admitted
+IIM20250042,Rohit Sharma,88.1,89.3,86,Not Admitted
+IIM20250043,Meera Joshi,96.7,99.9,69,Not Admitted
+IIM20250044,Varun Joshi,81.6,86,86,Not Admitted
+IIM20250045,Karan Singh,97.2,98.1,70,Not Admitted
+IIM20250046,Rohit Singh,78.3,76.7,87,Not Admitted
+IIM20250047,Kriti Verma,76.4,80.7,77,Not Admitted
+IIM20250048,Ishita Mehta,98.3,100,65,Not Admitted
+IIM20250049,Meera Reddy,80.6,80.7,87,Not Admitted
+IIM20250050,Ishita Verma,74.2,77.2,80,Not Admitted
+IIM20250051,Rohit Mehta,76,77.7,95,Not Admitted
+IIM20250052,Ananya Sharma,99.6,100,65,Not Admitted
+IIM20250053,Aarav Singh,99.9,99.7,66,Not Admitted
+IIM20250054,Siddharth Singh,83.3,84,81,Not Admitted
+IIM20250055,Siddharth Sharma,77.9,76.1,67,Not Admitted
+IIM20250056,Meera Mehta,98.8,100,68,Not Admitted
+IIM20250057,Meera Joshi,90.3,91,90,Admitted
+IIM20250058,Siddharth Singh,79.1,80.1,71,Not Admitted
+IIM20250059,Varun Verma,86,86.5,65,Not Admitted
+IIM20250060,Varun Kapoor,97.8,95.2,95,Admitted
+IIM20250061,Ananya Patel,74.9,82.8,93,Not Admitted
+IIM20250062,Siddharth Desai,94.5,93.8,82,Admitted
+IIM20250063,Tanvi Patel,82.6,86.6,91,Not Admitted
+IIM20250064,Ananya Mehta,81.8,83.5,81,Not Admitted
+IIM20250065,Ananya Reddy,96.7,97.1,70,Not Admitted
+IIM20250066,Ananya Verma,89.9,94.5,83,Not Admitted
+IIM20250067,Ananya Joshi,77,76.5,90,Not Admitted
+IIM20250068,Tanvi Desai,89.8,89.3,75,Not Admitted
+IIM20250069,Siddharth Verma,78.7,79.4,89,Not Admitted
+IIM20250070,Aarav Kapoor,81.6,82.5,94,Not Admitted
+IIM20250071,Meera Singh,87.3,89.5,92,Not Admitted
+IIM20250072,Tanvi Sharma,91.1,88.2,65,Not Admitted
+IIM20250073,Siddharth Singh,77.6,78.9,82,Not Admitted
+IIM20250074,Tanvi Kapoor,77,79.8,71,Not Admitted
+IIM20250075,Siddharth Reddy,84.9,87.2,73,Not Admitted
+IIM20250076,Ananya Gupta,96.1,97.1,83,Admitted
+IIM20250077,Aarav Reddy,84,90.6,79,Not Admitted
+IIM20250078,Tanvi Desai,98.3,100,89,Admitted
+IIM20250079,Ishita Desai,76,76.9,95,Not Admitted
+IIM20250080,Kriti Desai,89.9,97.8,93,Not Admitted
+IIM20250081,Meera Reddy,87.3,86.4,88,Not Admitted
+IIM20250082,Ishita Mehta,93,92,94,Admitted
+IIM20250083,Kriti Singh,85.5,87.3,78,Not Admitted
+IIM20250084,Siddharth Sharma,88.3,87,65,Not Admitted
+IIM20250085,Aarav Verma,78.2,82.7,91,Not Admitted
+IIM20250086,Meera Kapoor,73.9,74.8,84,Not Admitted
+IIM20250087,Tanvi Sharma,97.1,100,86,Admitted
+IIM20250088,Aarav Singh,92.6,93.1,82,Admitted
+IIM20250089,Siddharth Sharma,91.2,91.5,69,Not Admitted
+IIM20250090,Varun Gupta,92.6,94.2,92,Admitted
+IIM20250091,Ananya Singh,94.5,96.3,77,Admitted
+IIM20250092,Ananya Gupta,76,78.1,84,Not Admitted
+IIM20250093,Varun Mehta,95.3,99.4,71,Not Admitted
+IIM20250094,Varun Singh,94.9,95.8,73,Not Admitted
+IIM20250095,Ananya Kapoor,84.2,84.5,90,Not Admitted
+IIM20250096,Ananya Kapoor,99.2,100,92,Admitted
+IIM20250097,Rohit Reddy,99.3,100,66,Not Admitted
+IIM20250098,Kriti Kapoor,78.7,78.5,70,Not Admitted
+IIM20250099,Karan Reddy,72.4,76.5,74,Not Admitted
+IIM20250100,Varun Reddy,83.8,83,76,Not Admitted
+IIM20250101,Ananya Mehta,82.1,81.3,83,Not Admitted
+IIM20250102,Meera Verma,78.3,82.6,88,Not Admitted
+IIM20250103,Ananya Patel,72.6,74.4,79,Not Admitted
+IIM20250104,Aarav Kapoor,76.6,76.6,83,Not Admitted
+IIM20250105,Rohit Desai,97.2,100,68,Not Admitted
+IIM20250106,Varun Joshi,94.4,98.1,87,Admitted
+IIM20250107,Rohit Desai,97.7,98,83,Admitted
+IIM20250108,Aarav Patel,89.6,93.6,68,Not Admitted
+IIM20250109,Ishita Joshi,97,100,65,Not Admitted
+IIM20250110,Rohit Kapoor,83.2,82.8,79,Not Admitted
+IIM20250111,Varun Sharma,99.2,99.8,74,Not Admitted
+IIM20250112,Siddharth Desai,84.6,86.6,84,Not Admitted
+IIM20250113,Kriti Mehta,77,78.3,68,Not Admitted
+IIM20250114,Karan Kapoor,78.8,82.7,92,Not Admitted
+IIM20250115,Meera Reddy,89.4,94.5,69,Not Admitted
+IIM20250116,Karan Verma,73,72.8,65,Not Admitted
+IIM20250117,Ananya Verma,72.5,69.4,78,Not Admitted
+IIM20250118,Rohit Reddy,86.4,88.8,70,Not Admitted
+IIM20250119,Rohit Gupta,96.3,100,74,Not Admitted
+IIM20250120,Rohit Desai,76.2,77.1,90,Not Admitted
+IIM20250121,Karan Desai,88.3,89.6,85,Not Admitted
+IIM20250122,Aarav Mehta,93.2,96.1,66,Not Admitted
+IIM20250123,Rohit Verma,98.3,100,72,Not Admitted
+IIM20250124,Rohit Sharma,87.4,93.8,85,Not Admitted
+IIM20250125,Rohit Sharma,98,98.9,65,Not Admitted
+IIM20250126,Kriti Gupta,87.8,91.5,74,Not Admitted
